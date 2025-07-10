@@ -22,7 +22,7 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-        dyttzy: {
+    dyttzy: {
         api: 'http://ddys.pro//api.php/provide/vod',
         name: '111',
     },
